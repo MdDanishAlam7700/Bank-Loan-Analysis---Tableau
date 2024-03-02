@@ -1,8 +1,5 @@
 # Bank-Loan-Analysis---Tableau
-The complete process of building a data analysis project using popular tools such as Tableau and sql.
-# Data Analysis Project Using Tableau and SQL
-
-This project involves the use of Tableau and SQL for data analysis and visualization. The goal is to extract meaningful insights from a dataset and present them in a visually appealing and understandable manner.
+The complete process of building a data analysis project using popular tools such as Tableau and sql. This project involves the use of Tableau and SQL for data analysis and visualization. The goal is to extract meaningful insights from a dataset and present them in a visually appealing and understandable manner.
 
 ## Project Overview
 
